@@ -11,7 +11,12 @@ How well those variables describe the price of a car?
 
 ## Dataset
 
-Here is the link for the Dataset : https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/data
+Here is the link for the Dataset: 
+
+https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/data
+
+https://raw.githubusercontent.com/kaustubhsharma96/Car-Price-Prediction/main/CarPrice_Assignment.csv
+
 ## Summary
 
 For my project, "Modeling Car Prices," I set out to create a reliable model for anticipating car pricing based on a variety of vehicle parameters by using data-driven research. My methodical investigation and analysis produced insightful findings and a predictive model that has the potential to greatly help the automobile sector.
